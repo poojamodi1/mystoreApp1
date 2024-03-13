@@ -126,7 +126,7 @@
   
   .cart-item, .shipping-item {
     width: 100%;
-    min-width: 400px;
+    min-width: 300px;
     max-width: 450px;
     display: flex;
     flex-direction: row;
